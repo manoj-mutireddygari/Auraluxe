@@ -1,4 +1,4 @@
-# Lee Sage - Luxury Fashion E-commerce Website
+# Luxury Fashion E-commerce Website
 
 
 A premium e-commerce platform for luxury fashion, built with modern web technologies and a comprehensive admin management system.
